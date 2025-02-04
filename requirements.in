@@ -1,0 +1,11 @@
+pip-tools
+ipykernel
+pandas
+torch
+torchvision
+transformers
+scikit-learn
+pillow
+tqdm
+numpy
+joblib
