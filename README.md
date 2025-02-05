@@ -1,5 +1,15 @@
 # Image-text classifications  
-  
+
+## Create venv and install libs  
+
+```
+python -m venv venv
+source venv/bin/activate
+pip install pip-tools
+pip-compile requirements.in
+pip-sync
+```
+
 ## Data Structure  
 data/  
 ├── csv/  
